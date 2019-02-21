@@ -1,6 +1,7 @@
-<img src="https://i.imgur.com/53twYvA.png" alt="WMFA" width="75%" height="75%">
+<img src="https://i.imgur.com/53twYvA.png" alt="WMFA" width="50%" height="50%">
 
-![Example-Image](https://i.imgur.com/s7tqczN.png)
+<img src="https://i.imgur.com/s7tqczN.png" alt="WMFA" width="75%" height="75%">
+
 
 
 What is it about eating food out of a truck? I love it. You love it. They are taking over the country one hipster city at a time. I mean, nowadays you dont even need to ride you fixed gear bike there to get the newest jamacian-fusion tater tots. More importantly, you dont need to hear about it from mustache Larry down at the local bier garden. No. Now you have Where's My Food App!? A simple all-in-one app to track your favorite food trucks, find new ones nearby, and keep tabs on their coming's and going's as they cruise around town serving up their tasty treats. 
