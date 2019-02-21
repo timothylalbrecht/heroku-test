@@ -62,7 +62,7 @@ WMFA!? is the long-time brain child of Jon, an entrepreneur and former food truc
 
 * Brendan Cannell: The crazy guy that thought it would be fun to learn native and port this whole thing
 
-* Beth Wehner: The quiet map queen, both Google Maps and leaf
+* Beth Wehner: The quiet map queen, both Google Maps and Leaflet.js
 
 * Tim Albrecht: Specialty react components, group rubber duck debugger, and a sweet readme
 
