@@ -32,11 +32,11 @@ As a user, or eater, you can log in locally, with a google account, or with a fa
 
 Once logged in you will be taken to a map page where any active food trucks in your local area will be visible. 
 
-PLACEHOLDER FOR MAP
+![map-home](https://i.imgur.com/6FZpmIo.png)
 
 All active trucks are dynamic. By clicking on a truck, a modal will pop out allowing users to favorite a truck, get directions, or access some additional information provided by the truck itself. 
 
-PLACEHOLDER FOR TRUCK MODAL
+![truck-fav](https://i.imgur.com/AOMM9Xa.png)
 
 Truck operators will also have a simple page to update current menu information, deals, times and future locations, as well as activate or deactivate their truck on the map. 
 
