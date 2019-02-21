@@ -49,6 +49,8 @@ As previously mentioned, WMFA!? was originally a React.js project. While it does
 
 ![mobile-screen](https://i.imgur.com/p21fxgX.png)
 
+---
+
 ### About the Team
 
 WMFA!? is the long-time brain child of Jon, an entrepreneur and former food truck operator, who decided to give the UNC Coding Bootcamp a shot. WMFA!? came to be as the final project for the course. The team includes:
