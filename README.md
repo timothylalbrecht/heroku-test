@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/53twYvA.png" alt="WMFA" width="50%" height="50%">
 
-<img src="https://i.imgur.com/s7tqczN.png" alt="WMFA" width="50%" height=50%">
+<img src="https://i.imgur.com/s7tqczN.png" alt="WMFA" width="50%" height="50%">
 
 
 
